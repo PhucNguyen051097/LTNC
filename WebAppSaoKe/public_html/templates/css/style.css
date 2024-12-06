@@ -1,0 +1,61 @@
+body {
+    padding: 50px 100px;
+}
+
+ul.navbar-nav li a:hover:not(.active) {
+    background-color: #ffb9a6;}
+
+ul.navbar-nav li a.active {
+    background-color: #04AA6D;}
+
+ul{
+    list-style-type: none;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+label{
+    font-weight: bold !important;
+}
+
+.Title{
+    text-align: center;
+    margin: 40px auto;
+}
+
+form.filter > div{
+    margin: 10px auto;
+    
+}
+
+.Results{
+    font-weight: bold;
+}
+
+.fa.fa-angle-left, .fa.fa-angle-right{
+    padding: 0px 5px;
+}
+
+tr.table-warning.table-bordered.border-primary{
+    text-align: center;
+}
+
+.align-right{
+    text-align: right;
+}
+
+.Design-By{
+    text-align: center;
+
+    font-weight: bold;
+}
+
+.Design-By span.T505{
+    font-size: larger;
+    color: blue;
+    font-style: italic;
+}
+
+
+
